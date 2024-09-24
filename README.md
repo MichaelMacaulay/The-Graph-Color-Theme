@@ -1,4 +1,4 @@
-# graph-color-theme README
+# The Graph Color Theme
 
 ## Working with Markdown
 
