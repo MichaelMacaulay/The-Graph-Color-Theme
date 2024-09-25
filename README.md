@@ -7,4 +7,4 @@ This color theme is inspired by the colors of The Graph Network, a decentralized
 ![Solidity example](./Solidity-Example.png)
 ![JavaScript example](./JavaScript-Example.png)
 
-Learn [more about The Graph](https://thegraph.com/) or [help improve this theme](https://github.com/MichaelMacaulay/The-Graph-Color-Theme).
+Learn [more about The Graph](https://thegraph.com/) or [help improve this theme by submitting an issue](https://github.com/MichaelMacaulay/The-Graph-Color-Theme/issues).
