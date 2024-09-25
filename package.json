@@ -1,5 +1,5 @@
 {
-  "name": "graph-color-theme",
+  "name": "the-graph-color-theme",
   "displayName": "The Graph Color Theme",
   "description": "Color theme for The Graph ecosystem",
   "version": "0.0.5",
@@ -9,7 +9,7 @@
     "url": "https://github.com/MichaelMacaulay/The-Graph-Color-Theme"
   },
   "engines": {
-    "vscode": "^1.5.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
@@ -20,7 +20,7 @@
       {
         "label": "The Graph Color Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/The Graph Color Theme-color-theme.json"
+        "path": "./themes/The Graph-color-theme.json"
       }
     ]
   }
