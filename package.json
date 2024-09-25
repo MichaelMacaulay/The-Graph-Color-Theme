@@ -2,7 +2,7 @@
   "name": "graph-color-theme",
   "displayName": "The Graph Color Theme",
   "description": "Color theme for The Graph ecosystem",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "Michael-Macaulay",
   "repository": {
     "type": "git",
